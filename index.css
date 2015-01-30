@@ -2,5 +2,6 @@ body{
 	text-align:center;
 }
 p{
+	border: 1px solid #000;
 	color: #1e90ff;font-weight:bold;
 }
