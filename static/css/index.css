@@ -1,3 +1,6 @@
 body{
-	background: url('/static/images/pattern2.png') repeat;
+	background: url('/static/images/pattern3.jpg');
+    background-size:   cover;                      /* <------ */
+    background-repeat: no-repeat;
+    background-position: center center;            /* optionally, center the image */
 }
